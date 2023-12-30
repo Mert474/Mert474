@@ -1,4 +1,4 @@
-
+import pygame
 import sys
 import random
 
@@ -76,4 +76,3 @@ while True:
 
     # FPS ayarı
     clock.tick(30)
-
